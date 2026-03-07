@@ -12,7 +12,6 @@ Liverpool, United Kingdom
 Transferred to the University of Liverpool through the **2+2 joint programme** with Xi’an Jiaotong-Liverpool University.
 
 ### Year 2 (Current Modules, 2025–2026)
-
 - ELEC202 – Communication Systems  
 - ELEC207 – Instrumentation & Control  
 - ELEC209 – Electrical Circuits & Power Systems  
@@ -32,8 +31,6 @@ Suzhou, China
 2023 – 2025  
 
 ### Year 1 (Stage 2)
-
-- ACYR111 – English Language and Study Skills for Advanced Technology  
 - CAN102 – Electromagnetism and Electromechanics  
 - CPT109 – C Programming and Software Engineering I  
 - EEE103 – Electrical Circuits I  
@@ -43,21 +40,17 @@ Suzhou, China
 - MEC104 – Experimental, Computer Skills and Sustainability  
 - MEC106 – Engineering Drawing  
 - MTH101 – Engineering Mathematics I  
-- MTH102 – Engineering Mathematics II  
+- MTH102 – Engineering Mathematics II
+- EAP111 – English Language and Study Skills for Advanced Technology  
 
 ---
 
 ### Year 0 (Stage 1)
-
-- CCT001 – The Basic Principles of Marxism  
-- CCT008 – Ideological and Moral Cultivation and Basis of Law  
-- CCT010 – Outline of Chinese Modern History  
-- CCT011 – Mao Zedong Thought and the Theory of Socialism with Chinese Characteristics  
-- EAP035 – Advanced English Communication and Academic Skills I  
 - MTH007 – Linear Algebra  
 - MTH008 – Multivariable Calculus (Science and Engineering)  
 - MTH013 – Calculus (Science and Engineering)  
 - PHY002 – Physics  
 - SAT006 – Foundations of Computer Science and Engineering  
 - SPA001 – Spanish Language I  
-- SPA002 – Spanish Language II  
+- SPA002 – Spanish Language II
+- EAP035 – Advanced English Communication and Academic Skills I  
