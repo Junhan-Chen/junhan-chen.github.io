@@ -17,8 +17,3 @@ main:
   - title: "Research"
     url: /research/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
