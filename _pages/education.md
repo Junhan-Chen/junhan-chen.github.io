@@ -7,7 +7,9 @@ author_profile: true
 <table style="border:none;">
 <tr>
 <td style="border:none; width:120px; vertical-align:top;">
+<a href="https://www.liverpool.ac.uk/" target="_blank">
 <img src="/images/uol.jpeg" width="95" alt="University of Liverpool logo">
+</a>
 </td>
 <td style="border:none; vertical-align:top;">
 
@@ -32,14 +34,15 @@ author_profile: true
 - ELEC270 – Signals and Systems  
 - ELEC273 – Applied Design & Industrial Awareness  
 - MATH283 – Field Theory and Partial Differential Equations
-
   
 ---
 
 <table style="border:none;">
 <tr>
 <td style="border:none; width:120px; vertical-align:top;">
+<a href="https://www.xjtlu.edu.cn/en/" target="_blank">
 <img src="/images/xjtlu.jpeg" width="95" alt="Xi’an Jiaotong-Liverpool University logo">
+</a>
 </td>
 <td style="border:none; vertical-align:top;">
 
