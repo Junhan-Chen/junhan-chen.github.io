@@ -206,32 +206,17 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  education:
     output: true
-    permalink: /:collection/:path/
-  publications:
+    permalink: /education/:path/
+  coursework:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
+    permalink: /coursework/:path/
+  research:
     output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /research/:path/
 
 # Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
   - scope:
       path: ""
       type: pages
@@ -241,28 +226,22 @@ defaults:
 
   - scope:
       path: ""
-      type: teaching
+      type: education
+    values:
+      layout: single
+      author_profile: true
+
+
+  - scope:
+      path: ""
+      type: coursework
     values:
       layout: single
       author_profile: true
 
   - scope:
       path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: talks
+      type: research
     values:
       layout: talk
       author_profile: true
