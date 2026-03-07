@@ -216,7 +216,9 @@ collections:
     output: true
     permalink: /research/:path/
 
+
 # Defaults
+defaults:
   - scope:
       path: ""
       type: pages
@@ -230,7 +232,6 @@ collections:
     values:
       layout: single
       author_profile: true
-
 
   - scope:
       path: ""
