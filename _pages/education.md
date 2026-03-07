@@ -19,7 +19,6 @@ Liverpool, United Kingdom
 - ELEC270 – Signals and Systems  
 - ELEC273 – Applied Design & Industrial Awareness  
 - MATH283 – Field Theory and Partial Differential Equations  
-
 ---
 
 ## Xi’an Jiaotong-Liverpool University  
@@ -36,9 +35,7 @@ Suzhou, China
 - SPA001 – Spanish Language I  
 - SPA002 – Spanish Language II
 - EAP035 – Advanced English Communication and Academic Skills I  
-
 ---
-
 ### Year 1 Modules (2024-2025)
 - CAN102 – Electromagnetism and Electromechanics  
 - CPT109 – C Programming and Software Engineering I  
