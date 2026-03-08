@@ -112,7 +112,12 @@ The flexibility of the MLT makes it a useful analytical tool for studying dynami
 
 To illustrate the modelling framework, a **spring-mass-damper system with time-varying parameters** is analysed.
 
-<img src="/images/SpringMassDamperSystem.png" width="550">
+<figure style="text-align:center;">
+  <img src="/images/SpringMassDamperSystem.png" width="550">
+  <figcaption><em>Figure 1. Spring–mass–damper system.</em></figcaption>
+  <br>
+  <br>
+</figure>
 
 The governing differential equation of the system is
 
@@ -153,7 +158,13 @@ Applying the Laplace Transform to both sides of the equation and simplifying (as
 
 MATLAB simulations are used to verify whether the proposed approach captures the dynamic behaviour of the system.
 
-<img src="/images/101_SystemPlot.png" width="650">
+<figure style="text-align:center;">
+  <img src="/images/101_SystemPlot.png" width="650">
+  <figcaption><em>Figure 2. Numerical and analytical displacement comparison.</em></figcaption>
+  <br>
+  <br>
+</figure>
+
 
 The first plot represents the **numerical displacement**, while the second plot represents the **analytical displacement** derived from the mathematical model.
 
