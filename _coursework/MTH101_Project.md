@@ -18,7 +18,7 @@ Linear Time-Invariant (LTI) systems are fundamental in control systems, signal p
 
 Various approaches such as time-varying control and adaptive control have been proposed to address parameter variations. However, these approaches may introduce significant complexity and computational cost.
 
-During this course, the **Laplace Transform** was studied as a mathematical tool capable of converting differential equations from the time domain into algebraic equations in the frequency domain. In this project, the Laplace Transform is extended to handle time-varying parameters through the introduction of a **Modified Laplace Transform (MLT)**, allowing LTI systems to capture time-variant behaviour more effectively. :contentReference[oaicite:1]{index=1}
+During this course, the **Laplace Transform** was studied as a mathematical tool capable of converting differential equations from the time domain into algebraic equations in the frequency domain. In this project, the Laplace Transform is extended to handle time-varying parameters through the introduction of a **Modified Laplace Transform (MLT)**, allowing LTI systems to capture time-variant behaviour more effectively.
 
 ---
 
@@ -42,7 +42,7 @@ where
 - \(s = \sigma + j\omega\) is a complex variable  
 - \(j\) is the imaginary unit  
 
-This transformation converts differential equations into algebraic equations in the frequency domain, making it easier to analyse system behaviour. :contentReference[oaicite:2]{index=2}
+This transformation converts differential equations into algebraic equations in the frequency domain, making it easier to analyse system behaviour. 
 
 ---
 
@@ -82,7 +82,7 @@ $$
 Y(s)=\frac{y(0)}{s-1}-K\left(\frac{1}{s}-\frac{1}{s^2}+\frac{1}{s^3}-\frac{1}{s-1}\right)
 $$
 
-Finally, the inverse transform is applied to obtain the solution in the time domain. :contentReference[oaicite:3]{index=3}
+Finally, the inverse transform is applied to obtain the solution in the time domain. 
 
 ---
 
@@ -92,7 +92,7 @@ This study focuses on LTI systems whose parameters fluctuate over time. Traditio
 
 Using the Modified Laplace Transform (MLT), differential equations with time-varying coefficients can be analysed more effectively. The method captures dynamic parameter changes and allows the system behaviour to be studied under varying conditions.
 
-The approach provides a framework for analysing systems with time-dependent transfer functions while maintaining the analytical advantages of transform methods. :contentReference[oaicite:4]{index=4}
+The approach provides a framework for analysing systems with time-dependent transfer functions while maintaining the analytical advantages of transform methods. 
 
 ---
 
@@ -102,7 +102,7 @@ To verify the effectiveness of the Modified Laplace Transform method, the invers
 
 By applying the inverse MLT to each term of the expression for \(Y(s)\), the system response in the time domain can be obtained. This demonstrates that the method provides a systematic approach for analysing LTI systems with time-varying parameters.
 
-The flexibility of the MLT makes it a useful analytical tool for studying dynamic systems with variable coefficients. :contentReference[oaicite:5]{index=5}
+The flexibility of the MLT makes it a useful analytical tool for studying dynamic systems with variable coefficients. 
 
 ---
 
@@ -113,7 +113,7 @@ The flexibility of the MLT makes it a useful analytical tool for studying dynami
 To illustrate the modelling framework, a **spring-mass-damper system with time-varying parameters** is analysed.
 
 <figure style="text-align:center;">
-  <img src="/images/SpringMassDamperSystem.png" width="550">
+  <img src="/images/SpringMassDamperSystem.png" width="500">
   <figcaption><em>Figure 1. Spring–mass–damper system.</em></figcaption>
   <br>
   <br>
@@ -150,7 +150,7 @@ $$
 F(t)=2u(t)
 $$
 
-Applying the Laplace Transform to both sides of the equation and simplifying (assuming zero initial conditions) allows the system behaviour to be analysed in the frequency domain. :contentReference[oaicite:6]{index=6}
+Applying the Laplace Transform to both sides of the equation and simplifying (assuming zero initial conditions) allows the system behaviour to be analysed in the frequency domain. 
 
 ---
 
@@ -159,7 +159,7 @@ Applying the Laplace Transform to both sides of the equation and simplifying (as
 MATLAB simulations are used to verify whether the proposed approach captures the dynamic behaviour of the system.
 
 <figure style="text-align:center;">
-  <img src="/images/101_SystemPlot.png" width="650">
+  <img src="/images/101_SystemPlot.png" width="500">
   <figcaption><em>Figure 2. Numerical and analytical displacement comparison.</em></figcaption>
   <br>
   <br>
@@ -168,7 +168,7 @@ MATLAB simulations are used to verify whether the proposed approach captures the
 
 The first plot represents the **numerical displacement**, while the second plot represents the **analytical displacement** derived from the mathematical model.
 
-Since the two curves show strong agreement, the results indicate that the method is capable of capturing the system dynamics accurately. :contentReference[oaicite:7]{index=7}
+Since the two curves show strong agreement, the results indicate that the method is capable of capturing the system dynamics accurately. 
 
 ---
 
@@ -198,7 +198,7 @@ Y(k)=\frac{L\{y(0)\}+L\{y'(0)\}+L\{u(t)\}-L\{a(t)[y(0)+ky(k)]\}}
 {k^2+a(k)k+b(k)}
 $$
 
-Finally, applying the inverse Modified Laplace Transform yields the time-domain solution \(y(t)\). :contentReference[oaicite:8]{index=8}
+Finally, applying the inverse Modified Laplace Transform yields the time-domain solution \(y(t)\). 
 
 ---
 
@@ -206,7 +206,7 @@ Finally, applying the inverse Modified Laplace Transform yields the time-domain 
 
 This project explores the extension of classical Laplace Transform methods to analyse systems with time-varying parameters. By introducing the Modified Laplace Transform, LTI systems can capture dynamic behaviours caused by time-dependent mass, damping, and stiffness parameters.
 
-The transform method converts differential equations into algebraic expressions in the frequency domain, simplifying the analysis process and enabling improved modelling of dynamic engineering systems. :contentReference[oaicite:9]{index=9}
+The transform method converts differential equations into algebraic expressions in the frequency domain, simplifying the analysis process and enabling improved modelling of dynamic engineering systems. 
 
 ---
 
