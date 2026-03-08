@@ -36,4 +36,21 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
 # Past Projects
 
-<!-- project cards will go here -->
+<div class="project-card">
+
+  <div class="project-card__title">
+    <a href="/coursework/projects/modified-laplace-transform/" target="_blank">
+      Design of a Technique for Analyzing Linear Time-Invariant Systems with Time-Varying Parameters Using Laplace Transform
+    </a>
+  </div>
+
+  <div class="project-card__meta">
+    Oct 2024 – Dec 2024<br>
+    MTH 101 Engineering Mathematics, Xi'an Jiaotong-Liverpool University
+  </div>
+
+  <div class="project-card__body">
+    Explores the analysis of linear time-invariant systems with time-varying parameters using a Modified Laplace Transform approach, demonstrated through modelling of a spring–mass–damper system and numerical verification.
+  </div>
+
+</div>
