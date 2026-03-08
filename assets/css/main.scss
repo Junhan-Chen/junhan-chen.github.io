@@ -3,9 +3,7 @@
 
 /*
  * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * The first two lines are required by Jekyll.
  */
 
 @import
@@ -42,47 +40,71 @@
 ;
 
 
-/* -------------------------------- */
-/* Custom styling overrides */
-/* -------------------------------- */
+/* ================================================= */
+/* Custom styling overrides                          */
+/* ================================================= */
 
-/* Remove footer divider line */
+
+/* ---------- Footer ---------- */
+
 .page__footer {
   border-top: none !important;
   text-align: center;
-  font-size: 0.9em;
+  font-size: 0.95em;
+  color: #666 !important;
   margin-top: 2rem;
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
-/* Remove heading separators */
-.page__content h3 {
+
+/* ---------- Remove heading separators ---------- */
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
   border-bottom: none !important;
 }
 
-/* Reduce spacing under page title */
+
+/* ---------- Reduce page title spacing ---------- */
+
 .page__title {
   margin-bottom: 0.5rem !important;
 }
 
-/* -------- Research page spacing fixes -------- */
 
-/* Remove line under project titles */
-.page__content h3 {
-  border-bottom: none !important;
-}
+/* ================================================= */
+/* Research page spacing fixes                       */
+/* ================================================= */
 
-/* Reduce space between section title and project title */
-.page__content h2 {
+
+/* Reduce space after section titles */
+
+.page__content h1 {
+  margin-top: 1rem !important;
   margin-bottom: 0.6rem !important;
 }
 
-/* Reduce space above project titles */
-.page__content h3 {
+
+/* Project title spacing */
+
+.page__content h2 {
   margin-top: 0.6rem !important;
+  margin-bottom: 0.4rem !important;
 }
 
-/* Reduce space under project titles */
-.page__content h3 + p {
-  margin-top: 0.3rem !important;
+
+/* Reduce space between project title and date */
+
+.page__content h2 + p {
+  margin-top: 0.2rem !important;
+}
+
+
+/* Slightly reduce paragraph spacing */
+
+.page__content p {
+  margin-bottom: 0.7rem;
 }
