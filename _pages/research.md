@@ -7,7 +7,6 @@ author_profile: true
 Research interests currently span multiple areas of electrical and electronic engineering. Through coursework and undergraduate research opportunities, different domains of the field continue to be explored with curiosity and a strong motivation to learn, while gaining experience with practical engineering systems.
 
 # Research Projects
-
 ## GPS-Free Geolocation Based on LoRa  
 
 *Jun 2025 – Aug 2025*  
