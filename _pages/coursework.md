@@ -39,7 +39,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
 <div class="project-card">
 
   <div class="project-card__title">
-    <a href="/coursework/projects/modified-laplace-transform/" target="_blank">
+    <a href="/coursework/MTH101_Project/" target="_blank">
       Design of a Technique for Analyzing Linear Time-Invariant Systems with Time-Varying Parameters Using Laplace Transform
     </a>
   </div>
