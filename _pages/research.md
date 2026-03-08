@@ -18,7 +18,11 @@ Research interests currently span multiple areas of electrical and electronic en
     </a>
   </div>
 
-  <div class="project-card__meta">Jun 2025 – Aug 2025</div>
+  <div class="project-card__meta">
+    Jun 2025 – Aug 2025<br>
+    Summer Undergraduate Research Fellowships (SURF), Xi'an Jiaotong-Liverpool University <br>
+    Supervisor: <a href="https://scholar.xjtlu.edu.cn/en/persons/KyeongsooKim/" target="_blank">Dr Kyeong Soo Kim</a>
+  </div>
 
   <div class="project-card__body">
     Y. Zhou, X. Zhou, Z. Cheng, C. Lu, <strong>J. Chen</strong>, J. Pan, Y. Liu, S. Li, and K. S. Kim,<br>
