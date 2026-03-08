@@ -65,7 +65,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
   </div>
 
   <div class="project-card__meta">
-    Oct 2024 – Dec 2024<br>
+    Nov 2024 – Dec 2024<br>
     MEC106 Engineering Drawing, Xi'an Jiaotong-Liverpool University
   </div>
 
