@@ -1,12 +1,9 @@
 ---
-title: "Research"
+title: "Research Overview"
 permalink: /research/
 author_profile: true
 ---
 
----
-
-# Overview
 Research interests currently span multiple areas of electrical and electronic engineering. Through coursework and undergraduate research opportunities, different domains of the field continue to be explored with curiosity and a strong motivation to learn, while gaining experience with practical engineering systems.
 
 ---
