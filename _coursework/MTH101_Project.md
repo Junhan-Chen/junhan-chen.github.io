@@ -4,8 +4,6 @@ permalink: /coursework/MTH101_Project/
 author_profile: true
 ---
 
-# Design of a Technique for Analyzing Linear Time-Invariant Systems with Time-Varying Parameters Using Laplace Transform
-
 **Team:** Junhan Chen, Shengda Gao, Yiwen Wang, Yulin Xia, Yang Tian, Siyuan Lin  
 **Course:** MTH101 Engineering Mathematics  
 **Institution:** Xi'an Jiaotong-Liverpool University  
