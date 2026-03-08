@@ -24,7 +24,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
   <div class="project-card__meta">
     Jan 2026 – Mar 2026<br>
-    ELEC222 / ELEC273 Year-2 Engineering Project · University of Liverpool<br>
+    Year 2 Project, University of Liverpool<br>
     Supervisor: <a href="https://www.liverpool.ac.uk/people/chao-long" target="_blank">Dr Chao Long</a>
   </div>
 
