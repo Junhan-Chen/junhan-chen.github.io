@@ -39,7 +39,7 @@ $$
 where  
 
 - \(t\) is time  
-- \(s = \sigma + j\omega\) is a complex variable  
+- \(s\) is a complex variable  
 - \(j\) is the imaginary unit  
 
 This transformation converts differential equations into algebraic equations in the frequency domain, making it easier to analyse system behaviour. 
