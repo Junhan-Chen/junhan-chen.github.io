@@ -17,7 +17,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
   <div class="project-card__title">
     <!-- <a href="https://flexiblenuclear.blogspot.com/" target="_blank"> -->
       Techno-Economic Analysis of Flexible Nuclear Operation to Support Renewables in GB Power Grid
-    </a>
+    <!-- </a> -->
   </div>
 
   <div class="project-card__meta">
