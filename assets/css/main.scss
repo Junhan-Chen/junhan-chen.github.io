@@ -157,17 +157,28 @@
 
 /* ---------- Mobile navigation ---------- */
 @media (max-width: 768px) {
-  /* 手机上只保留网站标题，其余顶部导航隐藏 */
+  /* 手机上只保留网站标题 */
   .greedy-nav .visible-links > li:not(.masthead__menu-item--lg) {
     display: none !important;
   }
 
-  /* 强制显示右上角汉堡按钮 */
+  /* 强制显示汉堡按钮 */
   .greedy-nav button {
     display: block !important;
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 20;
   }
 
-  /* 汉堡菜单下拉位置和样式 */
+  /* 给导航容器留出按钮空间 */
+  .greedy-nav {
+    position: relative;
+    padding-right: 3.5rem;
+  }
+
+  /* 默认隐藏下拉菜单，点击后由 JS 去掉 hidden 类 */
   .greedy-nav .hidden-links {
     right: 0.75rem;
     left: auto;
