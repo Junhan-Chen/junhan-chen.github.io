@@ -8,8 +8,10 @@ Research interests currently span multiple areas of electrical and electronic en
 
 ---
 
-## Research Projects
-### GPS-Free Geolocation Based on LoRa  
+# Research Projects
+
+## GPS-Free Geolocation Based on LoRa  
+
 Jun 2025 – Aug 2025  
 
 Y. Zhou, X. Zhou, Z. Cheng, C. Lu, **J. Chen**, J. Pan, Y. Liu, S. Li, and K. S. Kim,  
